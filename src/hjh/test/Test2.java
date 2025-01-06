@@ -30,7 +30,10 @@ public class Test2 {
 		System.out.println("test 999999999999 !!!!!!!!!! ");
 
 		System.out.println("test 000000000000 !!!!!!!!!! ");
+<<<<<<< HEAD
 		
 		System.out.println("test 888888888888 !!!!!!!!!! ");
+=======
+>>>>>>> branch 'master' of https://github.com/hjh-coder/hjhtest.git
 	}
 }
