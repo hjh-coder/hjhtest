@@ -16,11 +16,15 @@ public class Test2 {
 		System.out.println("test6 - web edit");
 		
 		System.out.println("test7 - web edit");
+		
+		System.out.println("test8 - web edit");
 	}
 	
 	public void test2() {
 		System.out.println("test !!!!!!!!!! ");
 		
 		System.out.println("test 555555555555 !!!!!!!!!! ");
+		
+		System.out.println("test 666666666666 !!!!!!!!!! ");
 	}
 }
