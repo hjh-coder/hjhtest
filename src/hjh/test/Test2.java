@@ -30,7 +30,5 @@ public class Test2 {
 		System.out.println("test 999999999999 !!!!!!!!!! ");
 
 		System.out.println("test 000000000000 !!!!!!!!!! ");
-		
-		System.out.println("test 888888888888 !!!!!!!!!! ");
 	}
 }
