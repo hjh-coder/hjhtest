@@ -22,8 +22,6 @@ public class Test2 {
 	
 	public void test2() {
 		System.out.println("test !!!!!!!!!! ");
-		
-		System.out.println("test 111111111111 !!!!!!!!!! ");
 
 		System.out.println("test 333333333333 !!!!!!!!!! ");
 		
@@ -32,5 +30,7 @@ public class Test2 {
 		System.out.println("test 444444444444 !!!!!!!!!! ");
 		
 		System.out.println("test 555555555555 !!!!!!!!!! ");
+		
+		System.out.println("test 666666666666 !!!!!!!!!! ");
 	}
 }
