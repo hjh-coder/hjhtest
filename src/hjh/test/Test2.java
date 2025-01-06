@@ -8,5 +8,7 @@ public class Test2 {
 		System.out.println("test2 - branch");
 		
 		System.out.println("test3 - branch");
+		
+		System.out.println("test4 - web edit");
 	}
 }
