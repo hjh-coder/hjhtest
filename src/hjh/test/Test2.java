@@ -22,11 +22,7 @@ public class Test2 {
 	
 	public void test2() {
 		System.out.println("test !!!!!!!!!! ");
-		
-		System.out.println("test 555555555555 !!!!!!!!!! ");
-		
-		System.out.println("test 666666666666 !!!!!!!!!! ");
-		
+				
 		System.out.println("test 888888888888 !!!!!!!!!! ");
 		
 		System.out.println("test 999999999999 !!!!!!!!!! ");
@@ -34,7 +30,7 @@ public class Test2 {
 		System.out.println("test 000000000000 !!!!!!!!!! ");
 		
 		System.out.println("test 111111111111 !!!!!!!!!! ");
-		
+
 		System.out.println("test 222222222222 !!!!!!!!!! ");
 	}
 }
