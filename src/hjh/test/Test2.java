@@ -13,4 +13,8 @@ public class Test2 {
 		
 		System.out.println("test4 - web edit");
 	}
+	
+	public void test2() {
+		System.out.println("test !!!!!!!!!! ");
+	}
 }
